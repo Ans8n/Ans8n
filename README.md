@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ans8n
+- 👀 I’m interested in learning web development.
+- 🌱 I’m currently following The Odin Project's cirriculum for web dev.
